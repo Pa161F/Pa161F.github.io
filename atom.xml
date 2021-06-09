@@ -6,7 +6,7 @@
   <link href="https://pa161f.github.io/atom.xml" rel="self"/>
   
   <link href="https://pa161f.github.io/"/>
-  <updated>2021-06-08T14:38:20.157Z</updated>
+  <updated>2021-06-09T15:59:34.423Z</updated>
   <id>https://pa161f.github.io/</id>
   
   <author>
@@ -17,19 +17,55 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="https://pa161f.github.io/2021/06/09/css/font/"/>
+    <id>https://pa161f.github.io/2021/06/09/css/font/</id>
+    <published>2021-06-09T15:35:11.199Z</published>
+    <updated>2021-06-09T15:59:34.423Z</updated>
+    
+    <content type="html"><![CDATA[@charset "UTF-8";w {    center;   }body {    color:#000FF;   }   *{margin:0;padding:0;font-size:100%;font-weight:normal;list-style:none;}body{font-family:"微软雅黑",Arial,Helvetica,sans-serif;font-size:11px;color:#FFF;background-color:#FFF;}nav,#information,#special,footer{width: 960px;}a{text-decoration:none;}]]></content>
+    
+    
+      
+      
+    <summary type="html">@charset &quot;UTF-8&quot;;
+w {
+    center;
+   }
+
+body {
+    color:#000FF;
+   }
+
+   *{
+	margin:0;
+	padding:0;
+	font-size:100%;
+	font-weight:normal;
+	l</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>待看电影</title>
     <link href="https://pa161f.github.io/2021/06/08/wait/"/>
     <id>https://pa161f.github.io/2021/06/08/wait/</id>
     <published>2021-06-08T13:58:40.712Z</published>
-    <updated>2021-06-08T14:38:20.157Z</updated>
+    <updated>2021-06-09T16:22:03.917Z</updated>
     
-    <content type="html"><![CDATA[<p>1.你的婚礼<br>2.我要我们在一起<br>3.当男人恋爱时</p>]]></content>
+    <content type="html"><![CDATA[<p>1.你的婚礼<br>2.我要我们在一起<br>3.当男人恋爱时</p><p> 电影</p><hr><h2 id="金融电影"><a href="#金融电影" class="headerlink" title="金融电影"></a><center>金融电影</center></h2><h4 id="《大空头》"><a href="#《大空头》" class="headerlink" title="《大空头》"></a><center>《大空头》</center></h4><p><img src="http://img.jrjimg.cn/2019/01/20190115195200510.jpg"></p><p>1.讲述于<strong>美国2008年金融危机</strong>，由次贷发生的金融危机。<br>2.发生于人们的借贷借贷借贷、而偿还不上借的贷款，资本家们疯狂借出，导致市场上有许多的空壳。比如一个人可以贷好几笔钱，去买房子，贷款房子，而借贷条件很容易就可以通过审核。<br>3.电影里有提到一位舞女，看是放荡其是有几套房子的人，这种情况频繁发生，抓住贷款漏洞。导致社会上存在很多<strong>泡沫</strong>，最后资金链断开，至此金融危机。<br>4.但总有人能幸免于躲过这次金融危机，并从中获利，得到大量的财富。<font color="red">华尔街几匹狼慧眼识珠！</font></p><h4 id="纪录片《美国商业大亨》点此观看"><a href="#纪录片《美国商业大亨》点此观看" class="headerlink" title="纪录片《美国商业大亨》点此观看"></a><center>纪录片《美国商业大亨》<a href="https://www.bilibili.com/video/BV19s411d7Am?p=1">点此观看</a></center></h4><center><font color>[点此观看](https://www.bilibili.com/video/BV19s411d7Am?p=1)</font></center><p><img src="http://i2.hdslb.com/bfs/archive/b4fc594696e91d1a401b8dade9e60e671c88c374.jpg"></p><center>↑[点此观看](https://www.bilibili.com/video/BV19s411d7Am?p=1)</center>-p1.铁路之争p2.石油风云p3.复仇者的崛起p4.嗜血工厂p5.新的对手o6.掌控全局p7.权倾白宫p8.新的未来<h5 id="《铁路之争》"><a href="#《铁路之争》" class="headerlink" title="《铁路之争》"></a>《铁路之争》</h5><h5 id="《石油风云》"><a href="#《石油风云》" class="headerlink" title="《石油风云》"></a>《石油风云》</h5><div id="r">华尔街几匹狼慧眼识珠</div><p><font color>66</font></p><center><font size="8">我</font></center><p><imga src width hight>&gt;</imga></p><center><font color="blue"> 大亨</font></center>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;1.你的婚礼&lt;br&gt;2.我要我们在一起&lt;br&gt;3.当男人恋爱时&lt;/p&gt;
-</summary>
+&lt;p&gt; 电影&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;金融电影&quot;&gt;&lt;a href=&quot;#金融电影&quot; class=&quot;headerlink&quot; title=&quot;金融电影&quot;&gt;&lt;/a&gt;&lt;center&gt;金融电影&lt;/cente</summary>
       
     
     
